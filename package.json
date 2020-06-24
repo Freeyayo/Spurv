@@ -31,10 +31,14 @@
   "description": "",
   "keywords": ["JavaScript"],
   "license": "ISC",
-  "main": "src/index.esm.js",
+  "main": "src/index.cjs.js",
+  "module": "src/index.esm.js",
+  "browser": {
+    "src/index.cjs.js": "src/index.esm.js"
+  },
   "name": "spurv",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.123"
+  "version": "0.0.124"
 }
