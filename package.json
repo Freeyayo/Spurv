@@ -1,0 +1,40 @@
+{
+  "_from": "spurv",
+  "_id": "spurv@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-hVq0oHnpg22TNTjNOAztFA788FE3qgN58KYn2AMZvX2bL6uGi9PtcWcMs4wORmGLiAYvOULiWaEer9NwRFpvDw==",
+  "_location": "/spurv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "spurv",
+    "name": "spurv",
+    "escapedName": "spurv",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/spurv/-/spurv-0.0.1.tgz",
+  "_shasum": "9e76eba37a226798be8e2ad3fc32e1a608a61dc1",
+  "_spec": "spurv",
+  "_where": "E:\\Spurv\\ifoo",
+  "author": {
+    "name": "Conghao Cai"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "keywords": ["JavaScript"],
+  "license": "ISC",
+  "main": "src/index.esm.js",
+  "name": "spurv",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.123"
+}
