@@ -8,20 +8,27 @@
 
 - CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.125/src/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.126/src/index.iife.js"></script>
 ```
 
 - NPM
 ```bash
+# normal
 npm i spurv
+# install to develope dependency
 npm i spurv -D
 ```
 
 - YARN
 ```bash
+# normal
 yarn add spurv
+# install to develope dependency
 yarn add spurv -D
 ```
+
+## The Documentation
+[Documentation Link](https://freeyayo.github.io/ifoo/#/)
 
 ## Playing Around 
 Let's start from `factorial`. First import is from **Sprurv**
