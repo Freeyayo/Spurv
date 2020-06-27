@@ -30,6 +30,7 @@
   "deprecated": false,
   "description": "",
   "keywords": ["JavaScript"],
+  "homepage": "https://github.com/Freeyayo/ifoo",
   "license": "ISC",
   "main": "src/index.cjs.js",
   "module": "src/index.esm.js",
