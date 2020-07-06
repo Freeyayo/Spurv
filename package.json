@@ -29,7 +29,7 @@
   "bundleDependencies": false,
   "deprecated": false,
   "description": "",
-  "keywords": ["JavaScript"],
+  "keywords": ["JavaScript","datastructure","es6","TypeScript"],
   "homepage": "https://github.com/Freeyayo/ifoo",
   "license": "ISC",
   "main": "src/index.cjs.js",
