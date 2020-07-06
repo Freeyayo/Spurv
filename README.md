@@ -1,14 +1,14 @@
 <!--
  * @Date: 2020-06-17 23:50:17
  * @LastEditors: Conghao Cai🔧
- * @LastEditTime: 2020-07-04 02:26:55
+ * @LastEditTime: 2020-07-07 00:12:16
  * @FilePath: /spurv/Spurv/README.md
 --> 
 ## Install
 
 - CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.131/src/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.132/src/index.iife.js"></script>
 ```
 
 - NPM
