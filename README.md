@@ -1,14 +1,14 @@
 <!--
  * @Date: 2020-06-17 23:50:17
  * @LastEditors: Conghao Cai🔧
- * @LastEditTime: 2020-07-07 00:12:16
+ * @LastEditTime: 2020-07-15 00:05:17
  * @FilePath: /spurv/Spurv/README.md
 --> 
 ## Install
 
 - CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.132/src/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.134/src/index.iife.js"></script>
 ```
 
 - NPM
@@ -63,4 +63,4 @@ factorial(150)                //  ==> 5.713383956445855e+262
 // at most 
 factorial(170)                //  ==> 7.257415615307999e+306 
 ```
-Don't worry if you pass a decimal, string or any wrong input unintentional (or intentional), `factorial` always return a safe number (and a warm reminder). It means that your program may still work fine but you can also get an error information
+Don't worry if you pass a decimal, string or any wrong input unintentionally (or intentionally), `factorial` always return a safe number (and a warm reminder). It means that your program may still work fine but you can also get an error information
