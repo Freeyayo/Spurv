@@ -8,7 +8,7 @@
 
 - CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.134/src/index.iife.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/spurv@0.0.135/src/index.iife.js"></script>
 ```
 
 - NPM
